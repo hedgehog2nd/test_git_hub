@@ -1,2 +1,3 @@
 ## test
-iris
+data("iris3")
+head(iris3)
